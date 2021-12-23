@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "farmgate",
+    "latitude": 23.1243,
+    "longitude": 45.0978
+
+  },
+  {
+    "id": 2,
+    "name": "mirpur",
+    "latitude": 23.1243,
+    "longitude": 45.0978
+
+  },
+  {
+    "id": 3,
+    "name": "ashulia",
+    "latitude": 23.1243,
+    "longitude": 45.0978
+
+  },
+  {
+    "id": 4,
+    "name": "savar",
+    "latitude": 23.1243,
+    "longitude": 45.0978
+
+  }
+]
